@@ -1,0 +1,72 @@
+[08.03.2016 17:42:55][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[08.03.2016 17:42:55][AnnoTool][1] -> Using Qt rendering engine.
+[08.03.2016 17:43:01][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/fasterRCNN_0.2_1.0_train.idl].
+[08.03.2016 17:43:01][AnnoTool][1] -> Loaded 353 IDL annotation datasets.
+[08.03.2016 17:43:01][AnnoTool][1] -> Loaded project 'fasterRCNN_0.2_1.0_train.idl': 0 classes, 353 AnnotationFiles.
+[08.03.2016 17:43:26][AnnoTool][1] -> AnnoTool is shutting down.
+[08.03.2016 18:06:02][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[08.03.2016 18:06:02][AnnoTool][1] -> Using Qt rendering engine.
+[08.03.2016 18:06:14][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/fasterRCNN_0.2_1.0_test.idl].
+[08.03.2016 18:06:14][AnnoTool][1] -> Loaded 367 IDL annotation datasets.
+[08.03.2016 18:06:15][AnnoTool][1] -> Loaded project 'fasterRCNN_0.2_1.0_test.idl': 0 classes, 367 AnnotationFiles.
+[08.03.2016 18:06:28][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/fasterRCNN_0.2_1.0_train.idl].
+[08.03.2016 18:06:28][AnnoTool][1] -> Loaded 367 IDL annotation datasets.
+[08.03.2016 18:06:28][AnnoTool][1] -> Loaded project 'fasterRCNN_0.2_1.0_train.idl': 0 classes, 367 AnnotationFiles.
+[08.03.2016 18:06:40][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_train.idl].
+[08.03.2016 18:06:41][AnnoTool][1] -> Loaded 353 IDL annotation datasets.
+[08.03.2016 18:06:41][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_train.idl': 0 classes, 353 AnnotationFiles.
+[08.03.2016 18:06:46][AnnoTool][1] -> AnnoTool is shutting down.
+[08.03.2016 19:30:56][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[08.03.2016 19:30:57][AnnoTool][1] -> Using Qt rendering engine.
+[08.03.2016 19:31:04][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_train.idl].
+[08.03.2016 19:31:04][AnnoTool][1] -> Loaded 352 IDL annotation datasets.
+[08.03.2016 19:31:05][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_train.idl': 0 classes, 352 AnnotationFiles.
+[08.03.2016 19:33:56][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_test.idl].
+[08.03.2016 19:33:56][AnnoTool][1] -> Loaded 365 IDL annotation datasets.
+[08.03.2016 19:33:57][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_test.idl': 0 classes, 365 AnnotationFiles.
+[08.03.2016 19:34:04][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/fasterRCNN_0.2_1.0_train.idl].
+[08.03.2016 19:34:05][AnnoTool][1] -> Loaded 353 IDL annotation datasets.
+[08.03.2016 19:34:05][AnnoTool][1] -> Loaded project 'fasterRCNN_0.2_1.0_train.idl': 0 classes, 353 AnnotationFiles.
+[08.03.2016 19:34:10][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/fasterRCNN_0.2_1.0_test.idl].
+[08.03.2016 19:34:10][AnnoTool][1] -> Loaded 367 IDL annotation datasets.
+[08.03.2016 19:34:10][AnnoTool][1] -> Loaded project 'fasterRCNN_0.2_1.0_test.idl': 0 classes, 367 AnnotationFiles.
+[08.03.2016 19:34:16][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_Flow_train.idl].
+[08.03.2016 19:34:16][AnnoTool][1] -> Loaded 197 IDL annotation datasets.
+[08.03.2016 19:34:18][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_Flow_train.idl': 0 classes, 197 AnnotationFiles.
+[08.03.2016 19:34:50][AnnoTool][1] -> AnnoTool is shutting down.
+[08.03.2016 19:52:09][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[08.03.2016 19:52:09][AnnoTool][1] -> Using Qt rendering engine.
+[08.03.2016 19:52:17][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_Flow_test.idl].
+[08.03.2016 19:52:18][AnnoTool][1] -> Loaded 365 IDL annotation datasets.
+[08.03.2016 19:52:18][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_Flow_test.idl': 0 classes, 365 AnnotationFiles.
+[08.03.2016 19:52:52][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_train.idl].
+[08.03.2016 19:52:52][AnnoTool][1] -> Loaded 352 IDL annotation datasets.
+[08.03.2016 19:52:52][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_train.idl': 0 classes, 352 AnnotationFiles.
+[08.03.2016 19:53:00][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_Flow_train.idl].
+[08.03.2016 19:53:00][AnnoTool][1] -> Loaded 352 IDL annotation datasets.
+[08.03.2016 19:53:00][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_Flow_train.idl': 0 classes, 352 AnnotationFiles.
+[08.03.2016 19:53:04][AnnoTool][1] -> AnnoTool is shutting down.
+[08.03.2016 19:58:22][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[08.03.2016 19:58:22][AnnoTool][1] -> Using Qt rendering engine.
+[08.03.2016 19:58:32][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/fasterRCNN_0.2_0.7_test.idl].
+[08.03.2016 19:58:32][AnnoTool][1] -> Loaded 367 IDL annotation datasets.
+[08.03.2016 19:58:32][AnnoTool][1] -> Loaded project 'fasterRCNN_0.2_0.7_test.idl': 0 classes, 367 AnnotationFiles.
+[08.03.2016 19:59:30][AnnoTool][1] -> AnnoTool is shutting down.
+[08.03.2016 20:16:43][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[08.03.2016 20:16:43][AnnoTool][1] -> Using Qt rendering engine.
+[08.03.2016 20:16:50][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_0.7_train.idl].
+[08.03.2016 20:16:50][AnnoTool][1] -> Loaded 352 IDL annotation datasets.
+[08.03.2016 20:16:50][AnnoTool][1] -> Loaded project 'LSDA_0.2_0.7_train.idl': 0 classes, 352 AnnotationFiles.
+[08.03.2016 20:17:24][AnnoTool][1] -> AnnoTool is shutting down.
+[09.03.2016 15:02:41][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[09.03.2016 15:02:41][AnnoTool][1] -> Using Qt rendering engine.
+[09.03.2016 15:02:46][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/fasterRCNN_0.2_1.0_1_train.idl].
+[09.03.2016 15:02:46][AnnoTool][1] -> Loaded 353 IDL annotation datasets.
+[09.03.2016 15:02:46][AnnoTool][1] -> Loaded project 'fasterRCNN_0.2_1.0_1_train.idl': 0 classes, 353 AnnotationFiles.
+[09.03.2016 15:02:58][AnnoTool][1] -> AnnoTool is shutting down.
+[09.03.2016 15:47:45][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[09.03.2016 15:47:45][AnnoTool][1] -> Using Qt rendering engine.
+[09.03.2016 15:49:57][AnnoTool][1] -> Loading IDL annotation datasets from [/home/zhongjie/CodesDown/jointmulticut/joint-multicut/evaluate_RPC/LSDA_0.2_1.0_1_train.idl].
+[09.03.2016 15:49:57][AnnoTool][1] -> Loaded 352 IDL annotation datasets.
+[09.03.2016 15:49:57][AnnoTool][1] -> Loaded project 'LSDA_0.2_1.0_1_train.idl': 0 classes, 352 AnnotationFiles.
+[09.03.2016 15:52:46][AnnoTool][1] -> AnnoTool is shutting down.
